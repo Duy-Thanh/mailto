@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "mailto:nekkochan0x0007@proton.me?subject=Contact%20for%20work",
+      "permanent": false
+    }
+  ]
+}
